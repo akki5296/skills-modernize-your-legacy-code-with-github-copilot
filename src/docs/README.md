@@ -82,5 +82,6 @@ sequenceDiagram
   Note over Ops,Data: - アカウント閉鎖は残高0のみ許可
   Note over Ops,Data: - 出金は残高チェック必須（オーバードラフト不可）
   Note over Ops,Data: - 取引上限や手数料は Ops 内で適用
+  
 ```
 
